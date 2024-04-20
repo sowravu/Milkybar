@@ -1,0 +1,583 @@
+@font-face {
+
+  font-family:'VAG Rounded W01 Regular'; 
+
+  src: url('./fonts/VAG\ Rounded\ W01\ Regular.ttf') format('truetype'); 
+}
+
+body{
+  font-family: 'VAG Rounded W01 Regular', sans-serif; 
+  margin: 0;  
+  padding: 0; 
+}  
+.navigation-bar-background{
+  background-color: #e30420;
+
+height: 141px;  
+
+width: 100%;
+
+border-bottom: 10px solid #ba031a;
+position: relative;
+
+}
+.milkey-bar-logo{
+
+  padding-top:16px;
+
+  padding-left: 174px;
+}  
+
+.navigator-buttons{
+   font-weight: 600;
+  position: absolute;
+  top: 97px;
+  left: 617px;
+  color: white;
+ 
+}
+.where-to-buy
+{
+  background-color: white;
+  font-family: 'VAG Rounded W01 Regular';
+  height: 35px;
+  width: 130px;
+  font-size: 16px;
+  border-radius: 18px;
+  color:#e30420 ;
+  border: none;
+  position: absolute;
+  top:17px;
+  left: 1127px;
+  cursor: pointer;
+  
+
+}
+.facebook{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 25px;
+  left:1296px;
+}
+.instagram{
+width: 25px;
+height: 25px;
+position: absolute;
+top: 25px;
+left: 1265px;
+
+}
+.youtube{
+
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 25px;
+  left: 1326px
+
+}
+.blue-background {
+  background-color: #048ebd;
+  width: 100%;
+  height: 538px;
+  position: relative;
+}
+.milkey-bar-collection{
+  height: 259.04px;
+  width:676.25px ;
+  position: absolute;
+  top: 100px;
+  right: 192px;
+}
+.Deliciously-Smooth-and-Creamy {
+  
+  color: #ffffff ;
+  font-weight: 550;
+  font-size: 60px;
+  line-height: 1;
+  position: absolute;
+  top: 98px;
+    left: 172px;
+    letter-spacing: -2px
+}
+#Milkybar®{
+  color: white;
+  
+  position: absolute;
+  top: 308px;
+  left: 175px;
+ line-height: 1.5;
+ font-weight: 500;
+ font-family: Arial;
+}
+.where-to-buy-2 {
+  background-color: #e30420;
+  border: none;
+  font-family: 'VAG Rounded W01 Regular';
+  position: absolute;
+  top: 390px;
+  left: 331px;
+  height: 38px;
+  width: 179px;
+  border-radius: 16px;
+  color: white;
+  box-shadow: 0px 6px 4px #ba031a;
+  font-size: 17px;
+  cursor: pointer;
+  
+}.bg-strip-product{
+  background-image: url(./photos/bg_strip_product\ \(1\).jpg);
+  
+  width: 1519px;
+  height: 253px;
+  position: relative;
+
+}
+.milkey-bar-packet{
+
+width: 398px;
+height: 473.25px;
+position: absolute;
+top: 18px;
+left: 332px;
+}
+.desert{
+  position: absolute;
+  top: 28px;
+  left: 905px;
+}
+.milky-bar-original-range {
+  font-size: larger;
+  position: absolute;
+  top: 1183px;
+  left: 418px;
+  cursor: pointer;
+}
+
+.arrow-bottem {
+  position: absolute;
+  top: 1251px;
+  left: 523px;
+  cursor: pointer;
+ 
+
+}
+.milky-bar-deserts{
+
+  font-size: large;
+  position: absolute;
+  top: 1009px;
+  left: 911px;
+}
+
+.Milkybar®-Original-Range-h1 {
+  position: absolute;
+  top: 1301px;
+  left: 812px;
+  font-size: 39px;
+}
+.Milkybar®-White-Chocolate-Medium-Bar-25g {
+  position: absolute;
+  top: 1392px;
+  left: 811px;
+  font-size: 27px;
+}
+
+.paragraph {
+  position: absolute;
+  top: 1468px;
+  left: 811px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7;
+  color: #6c6c6c;
+}
+.milky-bar-munch {
+  width: 577.5px;
+  height: 568.14px;
+  position: absolute;
+  top: 1373px;
+  left: 223px;
+}
+.white-chocolate-kid-bar-multipack-12g-6-pack {
+  width: 140px;
+  height: 137.73px;
+  position: absolute;
+  top: 1959px;
+  left: 276px;
+  cursor: pointer;
+}.new-milket-go {
+  width: 140px;
+  height: 137.73px;
+  position: absolute;
+  top: 1958px;
+  left: 438px;
+  cursor: pointer;
+}
+.gold-white {
+  width: 140px;
+  height: 137.73px;
+  position: absolute;
+  top: 1955px;
+  left: 595px;
+  cursor: pointer;
+}
+.Milkybar®-White-Chocolate-Kid-Bar-Multipack-12g-6-Pack {
+  position: absolute;
+  top: 2101px;
+  left: 284px;
+  line-height:1.5;
+  text-align: center;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
+
+.NEW-Milkybar®-Gold-White-Chocolate-Sharing-Bar-85g {
+    position: absolute;
+    top: 2101px;
+    left: 449px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+}
+
+.NEW-Milkybar®-Gold-White-Chocolate-Buttons-Sharing-Pouch-86g {
+  position: absolute;
+  top: 2101px;
+  left: 609px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+}
+
+.arrow-left {
+  width: 14px;
+  height: 34px;
+  position: absolute;
+  top: 2063px;
+  left: 242px;
+  cursor: pointer;
+}
+.arrow-right {
+  width: 14px;
+  height: 34px;
+  position: absolute;
+  top: 2063px;
+  left: 779px;
+  cursor: pointer;
+}
+.select-retailar-to-buy-now {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 2063px;
+  left: 827px;
+  font-size: 18px;
+  color: #0e2360;
+}
+.buttons {
+  position: absolute;
+  top: 2228px;
+  left: 417px;
+  letter-spacing: -6px;
+}
+.buttons-1 {
+  background-color: #e30620;
+  color: white;
+  width: 278.75px;
+  height: 38px;
+  border-radius: 0px 0px 8px 0px;
+  border: none;
+  position: absolute;
+  top: 2114px;
+  left: 826px;
+  text-align: right;
+  padding-right: 56px;
+  cursor: pointer;
+}
+.buttons-2{
+  background-color: #e30620;
+  color: white;
+  width: 278.75px;
+  height: 38px;
+  border-radius: 0px 0px 8px 0px;
+  border: none;
+  position: absolute;
+  top: 2114px;
+  left: 1121px;
+  text-align: right;
+  padding-right: 56px;
+  cursor: pointer;
+}
+.ASDA {
+  width: 48.86px;
+  height: 31.21px;
+  position: absolute;
+  top: 2117.5px;
+  left: 829px;
+  background-color: white;
+  padding-right: 13px;
+  padding-left: 13px;
+  cursor: pointer;
+}
+.amazone {
+  width: 48.86px;
+  height: 31.21px;
+  position: absolute;
+  top: 2117.5px;
+  left: 1123px;
+  background-color: white;
+  padding-right: 13px;
+  padding-left: 13px;
+  cursor: pointer;
+}
+.View-other-shopping-options {
+  position: absolute;
+  top: 2155.5px;
+  left: 1266px;
+  font-size: x-small;
+  cursor: pointer;
+}
+.gm {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 2066.5px;
+  left: 1374px;
+  font-size: small;
+}
+.Nutrition-information {
+  height: 57.54px;
+  width: 244.8px;
+  background-color: #0076cd;
+  color: white;
+  border-radius: 6px 6px 0px 0px;
+  border: none;
+  position: absolute;
+  top: 2322.5px;
+  left: 217px;
+  font-family: 'VAG Rounded W01 Regular', sans-serif;
+  font-size: 19px;
+}
+
+.Ingredients {
+  height: 57.54px;
+  width: 244.8px;
+  background-color: #ffffff;
+  color: #0076cd;
+ 
+  border: none;
+  position: absolute;
+  top: 2322.5px;
+  left: 463px;
+  font-family: 'VAG Rounded W01 Regular', sans-serif;
+  font-size: 19px;
+  padding-left: 0px;
+}
+.nutritional-value {
+  color: #4c4c4c;;
+  width: 38%;
+  position: absolute;
+  top: 2407px;
+  left: 223px;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+ line-height: 24px;
+ font-size: 14px;
+
+ text-align: left;
+
+}
+.Reference-Intake{
+
+  position: absolute;
+  top: 2692px;
+  left: 222px;
+  color:  #4c4c4c;
+}
+.energy {
+  border-radius: 30px;
+  border: 2px solid black;
+  width: 48px;
+  height: 79px;
+  position: absolute;
+  top: 2843px;
+  left: 221px;
+  text-align: center;
+  line-height: 14px;
+  color: #4c4c4c;
+}
+.seven {
+  color: white;
+  background-color: black;
+  font-size: small;
+  position: absolute;
+  top: 2900px;
+  left: 235px;
+  border-radius: 13px 13px 5px 5px;
+  padding: 4px;
+  color: #ffffff;
+}
+.Each-bar {
+  position: absolute;
+  top: 2807px;
+  left: 222px;
+  font-size: 13px;
+  color: #4c4c4c
+}
+.intake {
+  position: absolute;
+  top: 2939px;
+  left: 222px;
+  color: #4c4c4c;
+
+  font-size: 13px;
+}
+.footer {
+  background-color: #e30420;
+  height: 381px;
+  width: 100%;
+  border-bottom: 36px solid #ba031a;
+  border-top: 10px solid #ba031a;
+  position: absolute;
+  top: 3000px;
+  left: 0px;
+  
+}
+.new-logo {
+  width: 182.5px;
+  height: 81.88px;
+  position: absolute;
+  top: 42px;
+  left: 214px;
+ 
+}
+.footer-description {
+  width: 224px;
+  height: 27.8px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  position: absolute;
+  top: 138px;
+  left: 214px;
+  color: white;
+}
+.links {
+  position: absolute;
+  top: 33px;
+  left: 480px;
+  color: white;
+}
+.links-1 {
+  font-family: Arial, Helvetica, sans-serif;
+ 
+  position: absolute;
+  top: 80px;
+  left: 481px;
+  line-height:2.5;
+  font-size: 14px;
+}.home:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+  
+}.home{
+  color: white;
+  text-decoration: none;
+}
+.simple-joys:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+  
+}.simple-joys{
+  color: white;
+  text-decoration: none;
+}
+.products:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+  
+}.products{
+  color: white;
+  text-decoration: none;
+}
+.recipes:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+  
+}.recipes{
+  color: white;
+  text-decoration: none;
+}
+.the-mil-story:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+  
+}.the-mil-story{
+  color: white;
+  text-decoration: none;
+}
+
+.Contact:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+  
+}.Contact{
+  color: white;
+  text-decoration: none;
+}
+.Milkybar-Products-footer {
+  font-size: 19px;
+  position: absolute;
+  top: 10px;
+  left: 808px;
+  color: white;
+}
+.original-range-footer {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 74px;
+  left: 808px;
+  color: white;
+  text-decoration: none;
+}.original-range-footer:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+
+}
+.Milkybar-deserts-footer{
+
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 102px;
+  left: 808px;
+  color: white;
+  text-decoration: none;
+}
+.Milkybar-deserts-footer:hover{
+  color: #4c4c4c;
+  text-decoration: underline;
+}
+.footer-last {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 376px;
+  left: 225px;
+  color: white;
+}
+.cookies-logo {
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  top: 670px;
+  left: 27px;
+  cursor: pointer;
+}
